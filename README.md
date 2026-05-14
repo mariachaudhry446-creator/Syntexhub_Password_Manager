@@ -13,4 +13,5 @@ A local password manager that stores credentials encrypted on disk using AES sym
     admin123
 ## Files Generated
   secret.key - Your encryption key 
+  
   vault.json - Encrypted password storage
